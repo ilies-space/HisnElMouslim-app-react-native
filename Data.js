@@ -1,0 +1,58 @@
+export const DATA = [
+  {
+    id: "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+    title: "مثال 1",
+    repetetion: "1",
+    backgroundColor: "#BEDEF2",
+    isCompleted: false,
+  },
+  {
+    id: "3ac68afc-c605-48d3fz-a4f8-fbd91aa97f63",
+    title: "مثال 2",
+    repetetion: "6",
+    backgroundColor: "#BFEABE",
+    isCompleted: false,
+  },
+  {
+    id: "58694a0f-3da1-471f-bd9d6-145571e29d72",
+    title: "مثال 3",
+    repetetion: "1",
+    backgroundColor: "#F2D8C6",
+    isCompleted: false,
+  },
+  {
+    id: "58694a0f-3da1-471f-bd96-14sz5571e29d76",
+    title: "مثال 4",
+    repetetion: "2",
+    backgroundColor: "#F0EFB0",
+    isCompleted: false,
+  },
+  {
+    id: "bd7acbea-c1b1-46c2-aed5-3ad53dabb28ba",
+    title: "مثال 1",
+    repetetion: "1",
+    backgroundColor: "#BEDEF2",
+    isCompleted: false,
+  },
+  {
+    id: "3ac68afc-c605-48d3-a4f8-fbd91aad97f63",
+    title: "مثال 2",
+    repetetion: "6",
+    backgroundColor: "#BFEABE",
+    isCompleted: false,
+  },
+  {
+    id: "58694a0f-3da1-471f-bd96-145571de29d72",
+    title: "مثال 3",
+    repetetion: "1",
+    backgroundColor: "#F2D8C6",
+    isCompleted: false,
+  },
+  {
+    id: "58694a0f-3da1-471f-bd96-145571e29dzdd76",
+    title: "مثال 4",
+    repetetion: "2",
+    backgroundColor: "#F0EFB0",
+    isCompleted: false,
+  },
+];
